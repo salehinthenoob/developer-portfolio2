@@ -1,0 +1,86 @@
+body{
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+
+span{
+    color: rgb(255, 115, 0);
+}
+
+.flexible{
+    display: flex;
+    margin-bottom: 200px;
+   
+}
+
+.half-w{
+    max-width: 50%;
+    padding-left: 5%;
+}
+.half-w img{
+    width: 80%;
+}
+
+.lb{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, rgb(218, 70, 70));
+color: aliceblue;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+.db{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+background-position: right;
+}
+
+.banner{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.lb1{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, rgb(218, 70, 70));
+color: aliceblue;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+h3{
+    color: rgb(255, 115, 0);
+}
+
+.exi{
+    max-width: 40%;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.ex{
+background-image: url(/images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+
+#exi1{
+border-left: 7px solid tomato;
+}
+
+#exi2{
+    border-left: 7px solid blue;
+    }
+    footer p {
+        text-align: center;
+    }
