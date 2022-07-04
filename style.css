@@ -40,7 +40,7 @@ span {
 
 .db {
 
-    background-image: url(/images/dream-bg.png);
+    background-image: url(../images/dream-bg.png);
 
     background-repeat: no-repeat;
     background-position: right;
@@ -48,7 +48,7 @@ span {
 
 .banner {
 
-    background-image: url(/images/top-banner.png);
+    background-image: url(../images/top-banner.png);
 
     background-repeat: no-repeat;
 }
@@ -77,7 +77,7 @@ h3 {
 .ex {
 
 
-    background-image: url(/images/exp-bg.png);
+    background-image: url(../images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
